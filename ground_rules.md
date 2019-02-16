@@ -6,8 +6,10 @@
 
 * Be responsible for your own work, ask for help if necessary!
 
+[Code of Conduct](https://github.com/Widdershin/programmers-oath)
 
 
-Felipe Cook      
-Faycel Beji
-# Josh Deleon
+
+## Felipe Cook      
+## Faycel Beji
+## Josh Deleon
